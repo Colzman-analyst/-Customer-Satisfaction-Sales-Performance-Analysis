@@ -31,12 +31,12 @@ The analysis was conducted using **PSPP statistical software** and visualized th
 
 | # | Research Question |
 |---|---|
-| RQ1 | What is the overall customer satisfaction level across the supermarket chain? |
-| RQ2 | Is there a significant relationship between customer gender and product line preference? |
-| RQ3 | Does customer type (Member vs Normal) influence payment method preference? |
-| RQ4 | Does branch location significantly affect product line purchasing patterns? |
-| RQ5 | What is the relationship between financial transaction metrics and customer satisfaction? |
-| RQ6 | What factors are significant predictors of customer satisfaction rating? |
+| Q1 | What is the overall customer satisfaction level across the supermarket chain? |
+| Q2 | Is there a significant relationship between customer gender and product line preference? |
+| Q3 | Does customer type (Member vs Normal) influence payment method preference? |
+| Q4 | Does branch location significantly affect product line purchasing patterns? |
+| Q5 | What is the relationship between financial transaction metrics and customer satisfaction? |
+| Q6 | What factors are significant predictors of customer satisfaction rating? |
 
 ---
 
